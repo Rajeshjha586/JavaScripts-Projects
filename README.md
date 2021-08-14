@@ -8,5 +8,6 @@
 | 04  |    [Guess My Number](https://github.com/Rajeshjha586/JavaScripts-Projects/tree/main/04_guess_my_number)     |
 | 05  |    [Modal](https://github.com/Rajeshjha586/JavaScripts-Projects/tree/main/05_Modal)     |
 | 06  |    [Pig Game](https://github.com/Rajeshjha586/JavaScripts-Projects/tree/main/06_pig_game)     |
+| 07  |    [Custom Video Player](https://github.com/Rajeshjha586/JavaScripts-Projects/tree/main/07_custom_video_player)     |
 
 
